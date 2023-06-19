@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dTBM"]
+	path = dTBM
+	url = https://github.com/cran/dTBM
+	shallow = true
+	registered = true
 [submodule "tensorregress"]
 	path = tensorregress
 	url = https://github.com/cran/tensorregress
